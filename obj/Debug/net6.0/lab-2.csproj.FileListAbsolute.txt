@@ -1,0 +1,15 @@
+/Users/jacek/RiderProjects/lab-2/lab-2/bin/Debug/net6.0/lab-2
+/Users/jacek/RiderProjects/lab-2/lab-2/bin/Debug/net6.0/lab-2.deps.json
+/Users/jacek/RiderProjects/lab-2/lab-2/bin/Debug/net6.0/lab-2.runtimeconfig.json
+/Users/jacek/RiderProjects/lab-2/lab-2/bin/Debug/net6.0/lab-2.dll
+/Users/jacek/RiderProjects/lab-2/lab-2/bin/Debug/net6.0/lab-2.pdb
+/Users/jacek/RiderProjects/lab-2/lab-2/obj/Debug/net6.0/lab-2.csproj.AssemblyReference.cache
+/Users/jacek/RiderProjects/lab-2/lab-2/obj/Debug/net6.0/lab-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacek/RiderProjects/lab-2/lab-2/obj/Debug/net6.0/lab-2.AssemblyInfoInputs.cache
+/Users/jacek/RiderProjects/lab-2/lab-2/obj/Debug/net6.0/lab-2.AssemblyInfo.cs
+/Users/jacek/RiderProjects/lab-2/lab-2/obj/Debug/net6.0/lab-2.csproj.CoreCompileInputs.cache
+/Users/jacek/RiderProjects/lab-2/lab-2/obj/Debug/net6.0/lab-2.dll
+/Users/jacek/RiderProjects/lab-2/lab-2/obj/Debug/net6.0/refint/lab-2.dll
+/Users/jacek/RiderProjects/lab-2/lab-2/obj/Debug/net6.0/lab-2.pdb
+/Users/jacek/RiderProjects/lab-2/lab-2/obj/Debug/net6.0/lab-2.genruntimeconfig.cache
+/Users/jacek/RiderProjects/lab-2/lab-2/obj/Debug/net6.0/ref/lab-2.dll
